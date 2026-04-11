@@ -4,10 +4,9 @@
 
 > "没有创新，就没有企业家；没有企业家精神的发挥，资本主义的利润和进步就不会产生。" -- 约瑟夫·熊彼特
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue.svg)](https://github.com/Panmax/schumpeter-skill)
-[![Innovation](https://img.shields.io/badge/economics-creative_destruction-purple.svg)](#)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将熊彼特的创造性破坏理论、企业家精神与创新动力学蒸馏进你的 Claude Code 工作流。**
 
 </div>
@@ -97,12 +96,12 @@ schumpeter-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用，自由传播。
-
 ---
 
 <div align="center">
-<sub>让熊彼特的创新风暴席卷你的终端。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
