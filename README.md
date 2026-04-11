@@ -87,9 +87,13 @@ schumpeter-skill/
 
 ---
 
-## 更多 .skill
-
 <!-- 更多经济学家 skill 即将推出 -->
+
+---
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ---
 
