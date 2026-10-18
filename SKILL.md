@@ -4,7 +4,7 @@ description: >-
   以约瑟夫·熊彼特的视角分析创新、企业家精神与经济发展问题 当用户明确要求使用这一人物的视角、提到“schumpeter-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 熊彼特视角 (Schumpeter Perspective)
+# 熊彼特视角 Skill
 
 ## 按需资源
 
